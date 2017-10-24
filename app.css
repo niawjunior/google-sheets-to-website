@@ -1,0 +1,8 @@
+table {border-collapse: collapse; width: 100%;}
+th, td {border: thin solid rgb(0, 0, 0);  border-width: 1px; padding: 3px;font-family: 'Kanit', sans-serif;}
+body {margin: 12px; font-size: 18px;}
+h1,h2,h3{text-align: center;
+  font-family: 'Kanit', sans-serif;
+
+
+}
